@@ -1,0 +1,16 @@
+$ git log --oneline --graph --all
+*   b3737bf (HEAD -> master, origin/master, origin/HEAD) Merge branch '9-mark-all-tasks-in-a-category-as-completed'
+|\
+| * f65ba17 (origin/9-mark-all-tasks-in-a-category-as-completed, 9-mark-all-tasks-in-a-category-as-completed) Implemented method 9
+* |   905ac81 Merge pull request #11 from KLMnt89/7-count-tasks-per-category
+|\ \
+| * | a6ea50a (origin/7-count-tasks-per-category, 7-count-tasks-per-category) Implemented method 7
+| |/
+* |   2e8fe20 Merge pull request #10 from KLMnt89/1-remove-a-task-by-name
+|\ \
+| |/
+|/|
+| * 6409453 (origin/1-remove-a-task-by-name, 1-remove-a-task-by-name) Implemented method 1
+|/
+* 6dc10d8 Add starter code
+* ae70dfd Initial commit
